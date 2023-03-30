@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Countdown to NAB Show April 15, 2023</title>
+<style>
+  iframe {
+    width: 100%;
+    height: 100px;
+    border: none;
+  }
+</style>
+</head>
+<body>
+<iframe src="countdown_banner.html" frameborder="0" scrolling="no"></iframe>
+</body>
+</html>
